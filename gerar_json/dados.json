@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "titulo": "Melhor linguagem do mundo",
+        "descricao": "Uma das linguagens mais robustas do mercado, amplamente utilizada em sistemas corporativos e soluções escaláveis.",
+        "imagem": "../img/java2.png"
+    },
+    {
+        "id": 2,
+        "titulo": "Segunda melhor lingugem",
+        "descricao": "Linguagem moderna, concisa e totalmente integrada ao ecossistema Java, sendo a principal escolha para desenvolvimento Android nativo.",
+        "imagem": "../img/kotlin2.jpg"
+    },
+    {
+        "id": 3,
+        "titulo": "Melhor framework do mundo",
+        "descricao": "Framework que facilita a criação de aplicações standalone baseadas em Spring, agilizando o desenvolvimento de APIs e microsserviços.",
+        "imagem": "../img/springboot2.jpeg"
+    }
+]
